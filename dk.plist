@@ -11,21 +11,27 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://d1.upk.pw/e/niubibi/xqj4-resigned.ipa</string>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comagainfree002_65832_25f3f3ed-c653-4c5e-9d05-72dfe090160c.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cjwj.04</string>
+				<string>com.again.free002</string>
 				<key>bundle-version</key>
-				<string>6.5.5</string>
+				<string>6.5.8.32</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>ota</string>
 				<key>title</key>
-				<string>微信</string>
+				<string>神器黑色-更多好玩关注公众号：粉丝福利购</string>
 			</dict>
 		</dict>
 	</array>
