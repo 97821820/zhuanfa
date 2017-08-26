@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://d1.upk.pw/e/niubibi/xqj3-resigned.ipa</string>
+					<string>http://d1.upk.pw/e/niubibi/xqj4-resigned.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cjwj.03</string>
+				<string>com.cjwj.04</string>
 				<key>bundle-version</key>
-				<string>6.5.12</string>
+				<string>6.5.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
