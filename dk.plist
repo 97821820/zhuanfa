@@ -11,37 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://hbhuahuo.net/ipa/jz1.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://jabizb.cn/icon/largeImage.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://jabizb.cn/icon/largeImage.png</string>
+					<string>http://d1.upk.pw/e/niubibi/xqj3-resigned.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.aldb.ios.magic.19912</string>
+				<string>com.cjwj.03</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>6.5.12</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>微信</string>
+				<string>ota</string>
 				<key>title</key>
-				<string>微信多开-更多好玩关注公众号：</string>
+				<string>微信</string>
 			</dict>
 		</dict>
 	</array>
